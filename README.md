@@ -16,4 +16,5 @@ The job description heavily highlighted proficiencies with SQL, Python, and Tabl
 * **Improving Data Accuracy & Integrity**: To improve data input audits, eliminate/reduce discount application discrepancies, and order processing processes.
 * **Optimize Order Processing Systems**: To better integrate `Digital` and `CRM` systems, and to streamline the order processing process to automate data-entry
 * **Implement a Targeted Revenue Assurance Dashboard**: To improve compliance visibility across relevant stakeholders
+<img src="https://raw.githubusercontent.com/Olumedey/DiscountCompliance_Assessment/master/images/tableau.jpg?sanitize=true&raw=true" />
 
