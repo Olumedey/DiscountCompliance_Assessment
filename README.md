@@ -1,5 +1,5 @@
 # A Discount Compliance Assessment
-This is a solution set (Python Code, Tableau Dashboard, and Recommendation Presentation) for a second-round assessment given to me while applying for a Sr. Revenue Analyst role at Rogers Telecommunications. 
+This is a solution set (Python Code, [Tableau Dashboard](https://public.tableau.com/views/rogers_assess_sample/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), and Recommendation Presentation) for a second-round assessment given to me while applying for a Sr. Revenue Analyst role at Rogers Telecommunications. 
 
 ## Base Datasets
 - sample_discount_data.xlsx
